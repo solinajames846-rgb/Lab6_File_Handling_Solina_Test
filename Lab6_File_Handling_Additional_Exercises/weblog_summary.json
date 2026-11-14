@@ -1,0 +1,26 @@
+{
+    "student_info": {
+        "surname": "Solina",
+        "student_id": "TUPM-26-2302",
+        "seed_digit": 2,
+        "id_sum": 15
+    },
+    "records_processed": 1015,
+    "invalid_or_missing_records": 0,
+    "target_status_class": "4xx",
+    "records_in_target_class": 5,
+    "count_per_status_code": {
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET /robots.txt HTTP/1.1",
+            "count": 4
+        },
+        {
+            "url": "GET /favicon.ico HTTP/1.1",
+            "count": 1
+        }
+    ],
+    "filtered_csv_file": "filtered_weblog_4xx.csv"
+}

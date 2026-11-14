@@ -1,0 +1,32 @@
+============================================================
+CYBERSECURITY INCIDENT REPORT (2017)
+Student: Solina | Student ID: TUPM-26-2302
+============================================================
+Target Year                     : 2017
+Total Records in Dataset        : 3000
+Incidents in Target Year        : 319
+Invalid Financial Loss Entries  : 0
+Total Financial Loss ($M)       : 16261.68
+Average Financial Loss ($M)     : 50.98
+
+--- Incident Count per Attack Type ---
+  - DDoS: 58
+  - Malware: 46
+  - Man-in-the-Middle: 58
+  - Phishing: 64
+  - Ransomware: 44
+  - SQL Injection: 49
+
+--- Five Costliest Incidents ---
+  1. Country: Australia | Attack: SQL Injection | Industry: IT | Loss: $99.99M
+  2. Country: Brazil | Attack: Malware | Industry: Banking | Loss: $99.22M
+  3. Country: UK | Attack: SQL Injection | Industry: Government | Loss: $98.75M
+  4. Country: USA | Attack: DDoS | Industry: Government | Loss: $98.73M
+  5. Country: Germany | Attack: DDoS | Industry: Education | Loss: $98.61M
+
+--- Output File Information ---
+  Filtered CSV File  : filtered_cybersecurity_2017.csv
+  JSON Summary File  : cybersecurity_top5_2017.json
+  JSON Backup File   : cybersecurity_top5_2017_backup.json (Verified: True)
+  Text Report File   : cybersecurity_report_2017.txt
+============================================================

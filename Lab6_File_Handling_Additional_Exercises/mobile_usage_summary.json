@@ -1,0 +1,22 @@
+{
+    "student_info": {
+        "surname": "Solina",
+        "student_id": "TUPM-26-2302",
+        "seed_digit": 2
+    },
+    "operating_system": "Android",
+    "target_behavior_class": 3,
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 554,
+    "records_in_target_behavior_class": 111,
+    "average_battery_drain_mah_per_day": 1521.69,
+    "average_data_usage_mb_per_day": 820.26,
+    "count_verification": {
+        "selected_records": 111,
+        "exported_csv_rows": 111,
+        "verified": true
+    },
+    "exported_csv_file": "filtered_mobile_usage_android_class3.csv",
+    "backup_csv_file": "filtered_mobile_usage_android_class3_backup.csv",
+    "backup_file_size_bytes": 4512
+}
